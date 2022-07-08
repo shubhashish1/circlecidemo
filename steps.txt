@@ -1,0 +1,11 @@
+
+
+
+
+
+5. Now let's push the code to git post commit to the source main command 'git branch -M main'
+6. Now let's add the destination git link command 'git remote add origin https://github.com/shubhashish1/circlecidemo.git'
+7. Now push the code command 'git push -u origin main'
+8. It will ask for username and password of git, provide username as username and password as Personal access token
+9. Then it will push the code to the github repo.
+10. If we want to push some extra changes to github we have to first pull from git command 'git pull origin main'
